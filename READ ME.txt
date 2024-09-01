@@ -1,0 +1,8 @@
+face recognition Ai made by Devseville
+
+this works on all python 3.12
+either run install preques.bat or install dlib-19.24.99-cp312-cp312-win_amd64.whl and requirements.txt
+
+put you train images in train-images
+put you test images in test-images
+then run the code
